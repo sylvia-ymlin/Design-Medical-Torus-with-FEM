@@ -4,6 +4,8 @@
 
 **Date:** January 4, 2024
 
+**Applied FEM report (PDF):** [AppliedFEM.pdf](AppliedFEM.pdf)
+
 ---
 
 ## Introduction
