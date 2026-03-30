@@ -1,6 +1,7 @@
 # Design a Medical Torus
 
-**Authors:** Yangmei Lin
+**Authors:** Yangmei Lin, Haote Liu
+
 **Date:** January 4, 2024
 
 ---
